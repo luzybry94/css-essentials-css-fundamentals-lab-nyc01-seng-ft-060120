@@ -9,5 +9,8 @@ h1 {
 }
 
 img {
-  align-self: : center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
